@@ -2,16 +2,16 @@
 # This file contains our implementation of Magical Drop.
 #
 # Student 1: Name, Student Number
-# Student 2: Name, Student Number (if applicable)
+# Student 2: Cindy Liu , 1009853400
 #
 # We assert that the code submitted here is entirely our own 
 # creation, and will indicate otherwise when it is not.
 #
 ######################## Bitmap Display Configuration ########################
-# - Unit width in pixels:       TODO
-# - Unit height in pixels:      TODO
-# - Display width in pixels:    TODO
-# - Display height in pixels:   TODO
+# - Unit width in pixels:  8     TODO
+# - Unit height in pixels:  8     TODO
+# - Display width in pixels:  256  TODO
+# - Display height in pixels:  256 TODO
 # - Base Address for Display:   0x10008000 ($gp)
 ##############################################################################
 
